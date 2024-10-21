@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 
 
-# 💫 About Me:
-🔭 I’m currently working as an Software Developer Intern @ Payrup<br>👯 I’m looking to collaborate on DSA Learning<br>🤝 I’m looking for help with building a Second brain in notion<br>🌱 I’m currently learning System Design @ DSA<br>💬 Ask me about books, psychology, poetry<br>⚡ Fun fact : Tea is the secret of my energy
-
+#  About Me:
+ I’m currently working as an Software Developer Intern @ Payrup<be> 🌱 I’m currently learning System Design @ DSA<br>💬 Ask me about books, psychology
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com) 
